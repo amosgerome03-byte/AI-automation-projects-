@@ -41,7 +41,7 @@ Slow response times | AI auto-acknowledgment | Immediate customer confirmation |
 
 ## 🗺️ Current Workflow
 
-screenshotscurrent-workflow.png.jpg
+![Current Workflow](current-workflow.png)
 
 ---
 
